@@ -1,4 +1,47 @@
-## Hi there 👋
+# 👨‍💻 Narayan — Full Stack Developer
+
+Desarrollador web enfocado en crear interfaces limpias, funcionales y con propósito.  
+Me gusta transformar ideas en productos reales usando **JavaScript**, **React** y **Node.js**.  
+Busco mejorar un poco cada día en código, diseño y estrategia.
+
+---
+
+### 🧠 Stack principal
+💡 **Frontend:** HTML, CSS, JavaScript, React, Tailwind  
+⚙️ **Backend:** Node.js, Express, MongoDB  
+🛠️ **Herramientas:** Git, GitHub, VS Code, Figma, Vite  
+
+---
+
+### 🚀 Actualmente
+- Construyendo proyectos full stack para fortalecer mi portafolio  
+- Mejorando en arquitectura de APIs REST y diseño de interfaces responsivas  
+- Aprendiendo a optimizar rendimiento y estructura de código
+
+---
+
+### 🧩 Algunos proyectos
+| Proyecto | Descripción | Stack |
+|-----------|--------------|--------|
+| [Around The U.S.](https://github.com/tuusuario/around-the-us) | Red social para compartir fotos y experiencias de viaje | React, Node.js, CSS |
+| [Biblioteca Virtual](https://github.com/tuusuario/biblioteca-virtual) | Landing page de libros y reseñas con interfaz moderna | HTML, CSS, JS |
+
+---
+
+### 📈 Estadísticas de GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+### 📫 Conecta conmigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuusuario)  
+[![Portfolio](https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://tuportafolio.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tuusuario)
+
+---
+
+> “El código bien hecho no solo funciona — se siente elegante.”
 
 <!--
 **NarayanMx/NarayanMx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
