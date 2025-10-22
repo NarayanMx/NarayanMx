@@ -23,21 +23,20 @@ Busco mejorar un poco cada día en código, diseño y estrategia.
 ### 🧩 Algunos proyectos
 | Proyecto | Descripción | Stack |
 |-----------|--------------|--------|
-| [Around The U.S.](https://github.com/tuusuario/around-the-us) | Red social para compartir fotos y experiencias de viaje | React, Node.js, CSS |
-| [Biblioteca Virtual](https://github.com/tuusuario/biblioteca-virtual) | Landing page de libros y reseñas con interfaz moderna | HTML, CSS, JS |
+| [Around The U.S.](https://narayanmx.github.io/web_project_around/) | Red social para compartir fotos y experiencias de viaje | React, Node.js, CSS |
+| [Biblioteca Virtual](https://narayanmx.github.io/web_project_library_es/) | Landing page de libros y reseñas con interfaz moderna | HTML, CSS, JS |
 
 ---
 
 ### 📈 Estadísticas de GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NarayanMx&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NarayanMx&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ### 📫 Conecta conmigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuusuario)  
-[![Portfolio](https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://tuportafolio.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tuusuario)
+[![LinkedIn](https://www.linkedin.com/in/narayan-mx/)  
+[![GitHub](https://github.com/NarayanMx)
 
 ---
 
