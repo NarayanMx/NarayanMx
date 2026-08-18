@@ -23,6 +23,7 @@ Busco mejorar un poco cada día en código, diseño y estrategia.
 ### 🧩 Algunos proyectos
 | Proyecto | Descripción | Stack |
 |-----------|--------------|--------|
+| [Luminart](https://narayanmx.github.io/web_project_luminart_frontend/) | Galería de arte del MET de NewYork | API Rest, React, Node.js |
 | [Around The U.S.](https://narayanmx.github.io/web_project_around/) | Red social para compartir fotos y experiencias de viaje | React, Node.js, CSS |
 | [Biblioteca Virtual](https://narayanmx.github.io/web_project_library_es/) | Landing page de libros y reseñas con interfaz moderna | HTML, CSS, JS |
 
